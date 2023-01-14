@@ -1,0 +1,2 @@
+Working Directory > Staging Area > Local Repo. > Remote Repo.
+test-project > git add > git commit > git push
